@@ -10,8 +10,11 @@ To implement Principal Component Analysis (PCA) to reduce the dimensionality of 
 
 ## Algorithm
 1.Dataset Loading – Load the Height and Weight dataset using pandas and select the required features for analysis.
+
 2.Feature Scaling – Standardize the selected features using StandardScaler to bring them to the same scale.
+
 3.Principal Component Analysis (PCA) – Apply PCA to reduce the dimensionality of the dataset and extract principal components.
+
 4.Visualization and Analysis – Analyze the explained variance and visualize the principal components using a scatter plot.
 
 ## Program:
