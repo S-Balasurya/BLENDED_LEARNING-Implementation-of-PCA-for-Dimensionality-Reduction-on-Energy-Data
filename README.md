@@ -71,8 +71,11 @@ plt.show()
 
 ## Output:
 
-<Figure size 800x600 with 1 Axes><img width="689" height="545" alt="image" src="https://github.com/user-attachments/assets/5a6fd934-67a7-4143-9371-48f3b7b49765" />
+<img width="871" height="185" alt="Screenshot 2026-03-28 145916" src="https://github.com/user-attachments/assets/c27d29f1-83a6-4039-9d40-68734a665dae" />
 
+<img width="760" height="147" alt="Screenshot 2026-03-28 145929" src="https://github.com/user-attachments/assets/b3114dd1-973c-48b2-81dc-8628d1bc4e44" />
+
+<img width="689" height="545" alt="image" src="https://github.com/user-attachments/assets/d2ee97bc-9752-4cff-8128-6379c88b5063" />
 
 ## Result:
 Thus, Principal Component Analysis (PCA) was successfully implemented to reduce the dimensionality of the energy dataset.
